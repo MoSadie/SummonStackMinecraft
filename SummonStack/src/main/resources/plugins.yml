@@ -1,0 +1,8 @@
+name: SummonStack
+main: io.github.mosadie.summonstack.SummonStack
+version: 0.1.0
+commands:
+    summonstack:
+        description: Spawn a cow riding a chicken.
+        aliases: ss
+        usage: "Usage: /<command>"
